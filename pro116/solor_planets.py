@@ -81,6 +81,7 @@ cv2.putText(
     fontScale = 1,
     color = (255,255,255)
 )
+
 cv2.imshow("output",img)
 cv2.waitKey(0)
 
